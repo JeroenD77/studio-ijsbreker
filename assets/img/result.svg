@@ -1,6 +1,6 @@
 <svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_2925:18754)">
-<path d="M-3.99996 1026.15C-3.99981 925 75.6843 456.067 752.401 462.464C831.179 464.345 1334.58 459.18 1445 -0.999786L1523 -0.999737L1445 1026.15L-3.99996 1026.15Z" fill="url(#paint0_radial_2925:18754)"/>
+<path d="M-4.00038 1026.15C-4.00023 925 75.6838 456.067 752.4 462.464C831.179 464.345 1256.58 460.179 1367 -0.00156637L1445 -0.00124913L1445 1026.15L-4.00038 1026.15Z" fill="url(#paint0_radial_2925:18754)"/>
 <g filter="url(#filter0_dd_2925:18754)">
 <path d="M360 288C360 270.327 374.327 256 392 256H1072C1076.42 256 1080 259.582 1080 264V737C1080 754.673 1065.67 769 1048 769H368C363.582 769 360 765.418 360 761V288Z" fill="#FEF9EC"/>
 </g>
@@ -43,7 +43,7 @@
 <feBlend mode="normal" in2="effect1_dropShadow_2925:18754" result="effect2_dropShadow_2925:18754"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_2925:18754" result="shape"/>
 </filter>
-<radialGradient id="paint0_radial_2925:18754" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1354.79 881.451) rotate(-71.7671) scale(891.111 1410.03)">
+<radialGradient id="paint0_radial_2925:18754" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1351.79 890.664) rotate(-71.7642) scale(875.662 1410.03)">
 <stop offset="0.551338" stop-color="#FAE29E"/>
 <stop offset="1" stop-color="#F4C53D"/>
 </radialGradient>
