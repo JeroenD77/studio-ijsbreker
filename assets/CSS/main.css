@@ -1,15 +1,19 @@
 * {
     box-sizing: border-box;
     margin: 0;
-    background-color:#0D2A3E;
-    
+   
+
 }
 html {
     font-size: 10px;
     font-family: 'Open Sans', sans-serif;
     color: #fff;
-    background-image: url(http://www.horizonchampion.eu/themes/projectbase/images/bg.svg);
+    background-color:#0D2A3E;
+    background-image: url(../img/bgs_curve.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
+
 .container {
     max-width: 1440px;
     margin: 0 auto;  
