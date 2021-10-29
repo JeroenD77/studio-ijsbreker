@@ -22,7 +22,7 @@
 .hb-fill-right::before {
     position: absolute;
     content: "";
-    background: rgb(255, 255, 255);
+    background: rgba(244, 197, 61, 1);
     transition-duration: 0.3s;
     z-index: -1;
     inset: 0px auto auto 0px;

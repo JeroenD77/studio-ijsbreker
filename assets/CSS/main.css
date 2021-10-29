@@ -2,12 +2,13 @@
     box-sizing: border-box;
     margin: 0;
     background-color:#0D2A3E;
-
+    
 }
 html {
     font-size: 10px;
     font-family: 'Open Sans', sans-serif;
     color: #fff;
+    background-image: url(http://www.horizonchampion.eu/themes/projectbase/images/bg.svg);
 }
 .container {
     max-width: 1440px;
